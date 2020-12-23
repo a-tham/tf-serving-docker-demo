@@ -1,0 +1,14 @@
+flask
+flask-restful
+numpy==1.18.5
+jsonpickle
+requests
+opencv-contrib-python==4.2.0.34
+matplotlib
+tensorflow==2.3.1
+pillow
+scipy
+pyyaml
+xgboost==0.90
+scikit-learn==0.22.2.post1
+fastai==1.0.60

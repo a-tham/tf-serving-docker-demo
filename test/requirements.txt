@@ -1,0 +1,11 @@
+flask
+flask-restful
+numpy==1.18.5
+jsonpickle
+requests
+opencv-python
+matplotlib
+tensorflow==2.3.1
+pillow
+scipy
+pyyaml
